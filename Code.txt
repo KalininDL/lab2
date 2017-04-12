@@ -3,5 +3,5 @@
 "Hello world" It's me
 "Hello world"
 "New branch" 
-Do not try!!!
+Try to merge it now!
 
