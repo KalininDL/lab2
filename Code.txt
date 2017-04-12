@@ -1,12 +1,7 @@
 "Hello world"
 "I am a new programmist!"
 "Hello world" It's me
-<<<<<<< HEAD
-"28"
-=======
-"27"
->>>>>>> 70788ba209601ea897dcb06e4df6cf7338f1bf44
-"New branch" 
+29
 Try to merge it now!
 Next try!
 
